@@ -1,1 +1,2 @@
 This is line 1 in the document.
+First 'real' commit: added a line.
