@@ -10,4 +10,5 @@ Now we illustrate the merge again!
   - Line added in the local repo.
 
 Now we illustrate the merge again!
+  - Line added in the remote repo.
   - Line added in the local repo.
