@@ -6,4 +6,5 @@ To illustrate merge:
   - Line added in the local repository.
 
 Now we illustrate the merge again!
+  - Line added in the remote repo.
   - Line added in the local repo.
