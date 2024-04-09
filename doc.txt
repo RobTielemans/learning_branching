@@ -4,3 +4,5 @@ First 'real' commit: added a line.
 To illustrate merge:
   - Line added in the remote repository.
   - Line added in the local repository.
+
+Now we illustrate the merge again!
